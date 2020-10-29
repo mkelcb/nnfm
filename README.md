@@ -4,7 +4,8 @@
 
 This is a repository for the full source code of the NNFM project, which is a DNA sequence classifier CNN deep-learning model built on the Pytorch library.
 
-##Objective
+## Objective
+
 The model is motivated by the hypothesis that the number and arrangement of sequence motifs (eg. transcription factor binding sites) in the local region of GWAS associated SNPs may be used to predict the posterior probability of SNPs being causal to aid fine-mapping analyses. 
 
 This code base is under active development, and I hope it will be eventually deployed as a hosted service.
