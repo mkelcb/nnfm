@@ -34,8 +34,8 @@ In the meanwhile the code may be explored for educational purposes or run locall
 **Input:**
 - fasta sequences, converted into binary representation
 - optional auxilliary data 
-- hg19 coordinate
-- posterior probability for each SNP per trait
+- labels: chromosome, RSid, hg19 coordinates, A1,A2,... posterior probabilities for each trait
+
 
 **Output:**
 - Posterior probabilities of a each SNP being causal per trait
